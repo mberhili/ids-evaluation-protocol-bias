@@ -1,0 +1,2 @@
+dataset,leaky_acc,correct_acc,inflation_pct
+cicids2017,0.9986039999999999,0.998592,0.0011999999999900979

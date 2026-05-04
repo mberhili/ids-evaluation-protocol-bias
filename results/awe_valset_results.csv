@@ -1,0 +1,4 @@
+dataset,baseline_acc,baseline_f1,valcal_acc,valcal_f1,valcal_weights,valcal_tau,oracle_acc,oracle_f1,oracle_weights,oracle_tau
+UNSW-NB15,87.65850459116746,89.74123395963532,87.51032405383083,89.645450059914,"{'XGBoost': np.float64(0.45), 'LightGBM': np.float64(0.55)}",0.48500000000000015,92.26303259971822,93.13340807174887,"{'XGBoost': np.float64(0.0), 'LightGBM': np.float64(1.0)}",0.7450000000000003
+NSL-KDD,79.28938963804116,78.34716876130409,79.88821859474805,79.11369080523309,"{'XGBoost': np.float64(0.1), 'LightGBM': np.float64(0.9)}",0.3,80.9749822569198,80.45746571285369,"{'XGBoost': np.float64(0.8), 'LightGBM': np.float64(0.2)}",0.3
+CIC-IDS2017,99.885,99.70823290625397,99.886,99.71065989847716,"{'XGBoost': np.float64(0.0), 'LightGBM': np.float64(1.0)}",0.7150000000000003,99.893,99.72844707255793,"{'XGBoost': np.float64(0.25), 'LightGBM': np.float64(0.75)}",0.6350000000000002

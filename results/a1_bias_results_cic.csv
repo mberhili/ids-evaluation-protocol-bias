@@ -1,0 +1,2 @@
+dataset,biased_val_acc,biased_test_acc,proper_val_acc,proper_test_acc,bias_gap,proper_gap
+cicids2017,0.9986675,0.998598,0.9986725,0.9985600000000001,6.950000000005563e-05,0.00011249999999984883

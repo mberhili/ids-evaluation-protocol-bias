@@ -1,0 +1,13 @@
+model,condition,eval_dataset,accuracy
+XGBoost,full,UNSW-NB15,0.873548559490842
+XGBoost,no_sttl,UNSW-NB15,0.8731598892289754
+LightGBM,full,UNSW-NB15,0.8812247971627071
+LightGBM,no_sttl,UNSW-NB15,0.8814920079677404
+RandomForest,full,UNSW-NB15,0.8827551863188068
+RandomForest,no_sttl,UNSW-NB15,0.8826944565903901
+XGBoost,full,NSL-KDD (transfer),0.5718151171043293
+XGBoost,no_sttl,NSL-KDD (transfer),0.3569907735982967
+LightGBM,full,NSL-KDD (transfer),0.4334190915542938
+LightGBM,no_sttl,NSL-KDD (transfer),0.3552608232789212
+RandomForest,full,NSL-KDD (transfer),0.4528034066713982
+RandomForest,no_sttl,NSL-KDD (transfer),0.5143275372604684

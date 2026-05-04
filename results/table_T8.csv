@@ -1,0 +1,8 @@
+Reference,Method,Dataset,Accuracy (%),Evaluation,DOI
+Proposed (AWE-IDS),XGB+LGBM+CNN-BiLSTM (Weighted),UNSW-NB15,92.28,Proper holdout (test set),-
+Jouhari et al. (2024),CNN-BiLSTM + chi2 selection,UNSW-NB15,97.90,val_split (potentially biased),10.1109/wincom62286.2024.10658099
+Khan et al. (2024),Lightweight CNN-BiLSTM,UNSW-NB15,97.28,Holdout,arXiv:2406.02768
+Cao et al. (2023),Stacked Ensemble (RF+XGB+DT),UNSW-NB15,99.68,Holdout,10.1016/j.compeleceng.2023.108836
+Ali et al. (2023),Stacking-based Ensemble,UNSW-NB15,~97,10-fold CV,10.1007/s10207-023-00718-7
+Alotaibi & Gupta (2024),Voting GWO Ensemble,UNSW-NB15,100.0,Holdout (BoT-IoT/UNSW),10.1007/s10207-023-00803-x
+Sivamohan & Sridhar (2023),XAI-based Bi-LSTM,NSL-KDD,~99,Holdout,10.1007/s00521-023-08319-0

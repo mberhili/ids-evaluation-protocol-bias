@@ -1,0 +1,4 @@
+Dataset,Year,Total Samples,Train Samples,Test Samples,Features,Normal (%),Attack (%),Attack Types
+UNSW-NB15,2015,"257,673","175,341","82,332",42,55.0,45.0,9
+NSL-KDD,2009,"148,517","125,973","22,544",41,53.5,46.5,4
+CIC-IDS2017,2017,"~2,830,743",Variable,Variable,78,80.3,19.7,14

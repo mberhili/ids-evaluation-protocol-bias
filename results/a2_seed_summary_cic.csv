@@ -1,0 +1,2 @@
+dataset,model,mean_acc,std_acc,min_acc,max_acc,range_pct
+cicids2017,XGBoost,0.998702,8.415243700013271e-05,0.99852,0.99888,0.036000000000002697

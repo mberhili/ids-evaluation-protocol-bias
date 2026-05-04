@@ -1,0 +1,2 @@
+test,statistic,p_value,significant,n_observations,n_models
+Friedman,50.08000000000004,3.4746187031381373e-10,True,15,5
