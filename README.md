@@ -10,7 +10,7 @@
 
 **Affiliation:** SIOSI Research Team (Intelligent Systems, Optimisation and Computer Security), LIPIO Laboratory (Interdisciplinary Laboratory of Physics, Computer Science and Oncology), Faculty of Sciences, Mohammed First University, Oujda 60000, Morocco
 
-**Corresponding author:** Mohammed Berhili — berhili.mohammed@ump.ac.ma
+**Corresponding author:** Mohammed Berhili - berhili.mohammed@ump.ac.ma
 
 This repository contains all code, scripts, train/test indices, random seeds, and result files needed to reproduce every experiment reported in the manuscript.
 
