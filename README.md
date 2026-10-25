@@ -132,4 +132,4 @@ CIC-IDS2017 full pipeline (subsampling + SMOTE + 5-fold) requires ~16 GB RAM. CN
 
 ## License
 
-Code: MIT (see LICENSE). Result CSVs: CC-BY 4.0. Datasets are NOT included; obtafficial sources.
+Code: MIT (see LICENSE). Result CSVs: CC-BY 4.0. Datasets are NOT included; obtain from their respective official sources.
